@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const Clima = ({resultado}) => {
 
     // extraer los valores
